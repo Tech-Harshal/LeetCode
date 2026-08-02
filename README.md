@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0172-factorial-trailing-zeroes](https://github.com/harshal-glitch/Github/tree/master/0172-factorial-trailing-zeroes) |
 | [0268-missing-number](https://github.com/harshal-glitch/Github/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/harshal-glitch/Github/tree/master/0371-sum-of-two-integers) |
+| [0877-stone-game](https://github.com/harshal-glitch/Github/tree/master/0877-stone-game) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/harshal-glitch/Github/tree/master/0268-missing-number) |
+| [0877-stone-game](https://github.com/harshal-glitch/Github/tree/master/0877-stone-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -38,4 +40,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/harshal-glitch/Github/tree/master/0796-rotate-string) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/harshal-glitch/Github/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/harshal-glitch/Github/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
