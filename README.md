@@ -18,11 +18,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/harshal-glitch/Github/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/harshal-glitch/Github/tree/master/0268-missing-number) |
 | [0877-stone-game](https://github.com/harshal-glitch/Github/tree/master/0877-stone-game) |
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/harshal-glitch/Github/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/harshal-glitch/Github/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
@@ -31,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/harshal-glitch/Github/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/harshal-glitch/Github/tree/master/0268-missing-number) |
 ## String
 |  |
@@ -48,4 +51,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/harshal-glitch/Github/tree/master/0877-stone-game) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/harshal-glitch/Github/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/harshal-glitch/Github/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/harshal-glitch/Github/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
