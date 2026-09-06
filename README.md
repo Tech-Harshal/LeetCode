@@ -78,4 +78,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3979-maximum-valid-pair-sum](https://github.com/harshal-glitch/Github/tree/master/3979-maximum-valid-pair-sum) |
+## Linked List
+|  |
+| ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/harshal-glitch/Github/tree/master/0083-remove-duplicates-from-sorted-list) |
 <!---LeetCode Topics End-->
