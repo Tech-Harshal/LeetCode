@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/harshal-glitch/Github/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/harshal-glitch/Github/tree/master/0371-sum-of-two-integers) |
 | [0877-stone-game](https://github.com/harshal-glitch/Github/tree/master/0877-stone-game) |
+| [1025-divisor-game](https://github.com/harshal-glitch/Github/tree/master/1025-divisor-game) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -53,10 +54,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/harshal-glitch/Github/tree/master/0053-maximum-subarray) |
 | [0877-stone-game](https://github.com/harshal-glitch/Github/tree/master/0877-stone-game) |
+| [1025-divisor-game](https://github.com/harshal-glitch/Github/tree/master/1025-divisor-game) |
 ## Game Theory
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/harshal-glitch/Github/tree/master/0877-stone-game) |
+| [1025-divisor-game](https://github.com/harshal-glitch/Github/tree/master/1025-divisor-game) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -82,4 +85,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/harshal-glitch/Github/tree/master/0083-remove-duplicates-from-sorted-list) |
+## Brainteaser
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/harshal-glitch/Github/tree/master/1025-divisor-game) |
+## Impartial Game
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/harshal-glitch/Github/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
